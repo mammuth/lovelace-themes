@@ -14,7 +14,8 @@ Google - Light:
   ha-card-box-shadow: "0px 0px 1px #eeeeee"
 
   ### Main Interface Colors ###
-  primary-color: "#ffffff"
+  primary-color: "#444444"
+  app-header-background-color: "#ffffff"
   light-primary-color: "#c1c1c1"
   primary-background-color: "#F7F9FB"
   secondary-background-color: "#ffffff"
